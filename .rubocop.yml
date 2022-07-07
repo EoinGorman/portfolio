@@ -1,0 +1,7 @@
+Style/Documentation:
+  Exclude:
+    - 'app/controllers/*'
+    - 'app/helpers/*'
+    - 'app/models/*'
+    - 'config/application.rb'
+    - 'db/*'
