@@ -51,3 +51,21 @@ a {
   background-color: #92B4A7;
   color: #fff7f7;
 }
+
+.view_work {
+  text-align: center;
+  padding: 40px;
+}
+
+.view_work a {
+  padding: 35px 60px;
+  text-decoration: none;
+}
+
+.view_work a:hover {
+  color: #2F2F2F;
+}
+
+.view_work a:active {
+  background-color: #638075;
+}
