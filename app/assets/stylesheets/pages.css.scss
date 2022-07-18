@@ -45,7 +45,7 @@ header img {
   border-radius: 50%;
 }
 
-a {
+.prominent_link {
   padding: 5px;
   border-radius: 5%;
   background-color: #92B4A7;
@@ -68,4 +68,14 @@ a {
 
 .view_work a:active {
   background-color: #638075;
+}
+
+.social_icon {
+  display: inline;
+  width: 20px;
+}
+
+.social_link {
+  display: inline;
+  margin: 10px 20px;
 }
