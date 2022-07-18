@@ -1,5 +1,5 @@
 body {
-  background-color: #2F2F2F;
+  background-color: #fff7f7;
 }
 
 h1 {
@@ -13,19 +13,27 @@ h2 {
 }
 
 section {
-  margin: 10px 0px;
-  background-color: #fff7f7;
+  margin: 20px 0px;
+  padding: 20px 20px;
+  background-color: #2F2F2F;
 }
 
 p {
-  color: #2F2F2F;
+  color: #fff7f7;
   padding: 0px 10px;
   text-align:justify;
   padding-bottom: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-size: larger;
+  letter-spacing: 1px;
 }
 
-header nav {
-  background-color: #fff7f7;
+strong {
+  color: #92B4A7;
+}
+
+header, footer {
+  background-color: #2F2F2F;
   padding: 10px 10px;
   border: 1px solid #92B4A7;
 }
@@ -38,5 +46,8 @@ header img {
 }
 
 a {
-  color: #92B4A7;
+  padding: 5px;
+  border-radius: 5%;
+  background-color: #92B4A7;
+  color: #fff7f7;
 }
